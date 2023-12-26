@@ -4,8 +4,9 @@ void main() {
   runApp(
     const MaterialApp(
       home: Scaffold(
+        backgroundColor: Colors.greenAccent,
         body: Center(
-          child: Text("Hey Karthik!"),
+          child: Text("Hey its me Karthik!"),
         ),
       ),
     ),
